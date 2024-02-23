@@ -13,13 +13,6 @@ Working as an Invigilator for British Council Sri Lanka
 ## 🔧 Technologies & Tools
 
 Java C++ Python R MySQL Firebase Prolog HTML CSS JS PHP XML JSON
-## 🚀 Projects
-
-Highlight a few of your notable projects. Include project names, a brief description, and links to their respective repositories or live demos. This gives visitors a sense of your work and contributions.
-
-1. [Project 1](link-to-project-1): Short description of the project.
-2. [Project 2](link-to-project-2): Brief overview of the second project.
-
 
 ## 📫 How to Reach Me
 
