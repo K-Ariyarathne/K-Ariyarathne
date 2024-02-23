@@ -18,7 +18,7 @@ Java C++ Python R MySQL Firebase Prolog HTML CSS JS PHP XML JSON
 
 Provide links to your social media profiles, personal website, or ways for others to connect with you.
 Reach me through kavindi1ariyarathne@gmail.com
-- LinkedIn: [Your LinkedIn Profile]([(https://www.linkedin.com/in/kavindi-ariyarathne-7495bb296/)])
+- LinkedIn: [(https://www.linkedin.com/in/kavindi-ariyarathne-7495bb296/)]([(https://www.linkedin.com/in/kavindi-ariyarathne-7495bb296/)])
 
 
 
