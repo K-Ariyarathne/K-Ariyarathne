@@ -12,11 +12,12 @@ Working as an Invigilator for British Council Sri Lanka
 
 ## 🔧 Technologies & Tools
 
-Java C++ Python R MySQL Firebase Prolog HTML CSS JS PHP XML JSON
+Java    MySQL     HTML   PHP    R
+C++     Firebase  CSS    XML    Arduino
+Python  Prolog    JS     JSON
 
 ## 📫 How to Reach Me
 
-Provide links to your social media profiles, personal website, or ways for others to connect with you.
 Reach me through kavindi1ariyarathne@gmail.com
 
 
