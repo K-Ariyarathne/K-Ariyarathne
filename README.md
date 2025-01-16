@@ -14,7 +14,7 @@ Working as an Invigilator for British Council Sri Lanka
 
 Java    MySQL     HTML   PHP    R
 C++     Firebase  CSS    XML    Arduino
-Python  Prolog    JS     JSON
+Python  JS     JSON
 
 ## 📫 How to Reach Me
 
