@@ -12,9 +12,9 @@ Working as an Invigilator for British Council Sri Lanka
 
 ## 🔧 Technologies & Tools
 
-Java    MySQL     HTML   PHP    R
-C++     Firebase  CSS    XML    Arduino
-Python  JS     JSON
+Python    MySQL     Pysprk   AWS    Airflow
+Snowflake  
+
 
 ## 📫 How to Reach Me
 
