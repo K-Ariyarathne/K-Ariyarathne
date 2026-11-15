@@ -8,7 +8,9 @@ Student at Coventry University (NIBM)
 
 Currently studying Computer Science with Artificial Intelligence
 
-Working as an Invigilator for British Council Sri Lanka
+Working as an Data Enginner Intern ata CAL
+
+Past work experiences : Research Assistant Intern At MARC University of Peradeniya
 
 ## 🔧 Technologies & Tools
 
